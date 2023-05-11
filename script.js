@@ -15,3 +15,13 @@ function sayFullName(firstName, lastName, age){
 }
 
 sayFullName(`Ali`, `Siddiqui`, 21)
+
+const sayHi = () => console.log(`hi`)
+
+const findSum = (a,b) => console.log(a+b)
+
+findSum(5,7)
+
+const findRemainder = (a,b) => console.log(a%b)
+
+findRemainder(10,3)
